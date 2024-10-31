@@ -30,4 +30,3 @@ Implementation of various multi-step methods for solving Ordinary Differential E
 
 ## Author
 Faranak Rajabi  
-University of California, Santa Barbara
